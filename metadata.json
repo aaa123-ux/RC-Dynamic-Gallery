@@ -1,0 +1,41 @@
+{
+  "gallery_title": "写真館",
+  "gallery_description": "VRChat Dynamic Gallery",
+  "last_updated": "2026-02-13 15:05:13",
+  "images": [
+    {
+      "file_hash": "3faa1362",
+      "date": "2026-02-13",
+      "title": "",
+      "description": "",
+      "category": "Uncategorized",
+      "tags": [],
+      "photographer": ""
+    },
+    {
+      "file_hash": "8adf651f",
+      "date": "2026-02-13",
+      "title": "",
+      "description": "",
+      "category": "Uncategorized",
+      "tags": [],
+      "photographer": ""
+    },
+    {
+      "file_hash": "45ef44bf",
+      "date": "2026-02-13",
+      "title": "",
+      "description": "",
+      "category": "Uncategorized",
+      "tags": [],
+      "photographer": ""
+    }
+  ],
+  "categories": [
+    "Uncategorized",
+    "Main Event",
+    "Selfie",
+    "Landscape",
+    "Group Photo"
+  ]
+}
